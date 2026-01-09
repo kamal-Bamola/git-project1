@@ -1,1 +1,3 @@
-"git-project1" 
+# git-project1
+
+This is my first Git project.
